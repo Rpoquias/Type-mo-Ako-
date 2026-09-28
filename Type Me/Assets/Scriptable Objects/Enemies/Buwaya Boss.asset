@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19a4d2a2498ce8249923a5e40810e88b, type: 3}
+  m_Name: Buwaya Boss
+  m_EditorClassIdentifier: 
+  portraitSprite: {fileID: 21300000, guid: 094814ebb2336a547b9ec1aa57918949, type: 3}
+  iconSprite: {fileID: 2085797341, guid: e4a2789b22738f24db3ab316902bc7c7, type: 3}
+  enemyName: Buwaya
+  description: In Filipino folklore, a giant, man-eating crocodile often associated
+    with rivers and swamps. It symbolizes greed and danger, sometimes used metaphorically
+    for corrupt people.
+  wordScore: 100
+  enemyType: 3
+  speed: 0.4
+  damage: 13
+  wordDifficulty: 3
+  deathSound: {fileID: 8300000, guid: 1d075102e90c7cc41b37f0fb33138c1b, type: 3}
+  hitReactionType: 2
+  knockbackForce: 0
+  knockbackDuration: 0.3
+  knockbackMultiplier: 0
+  stunDuration: 0.09
+  stunFlashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}

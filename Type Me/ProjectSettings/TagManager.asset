@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - HealthBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - UIText
+  - Managers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1519153529
+    locked: 0
+  - name: Floor
+    uniqueID: 391960295
+    locked: 0
+  - name: Decorations
+    uniqueID: 3564984005
+    locked: 0
+  - name: Enemies
+    uniqueID: 2396846655
+    locked: 0
+  - name: Player
+    uniqueID: 208918327
+    locked: 0
+  - name: bullet
+    uniqueID: 2394745871
+    locked: 0
+  - name: UI Text
+    uniqueID: 2305679217
+    locked: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19a4d2a2498ce8249923a5e40810e88b, type: 3}
+  m_Name: Santelmo Monster Hunter
+  m_EditorClassIdentifier: 
+  portraitSprite: {fileID: 21300000, guid: 146f82d80b8aaea4687b4f33f97e4f8b, type: 3}
+  iconSprite: {fileID: 181277051, guid: 804297169eb50784182d6499da68e64d, type: 3}
+  enemyName: Santelmo
+  description: A fiery, glowing ball of light in Filipino folklore, often seen hovering
+    at night. Believed to be the spirit of a person who died violently, it can either
+    guide or mislead travelers in the dark.
+  wordScore: 120
+  enemyType: 1
+  speed: 3.7
+  damage: 5
+  wordDifficulty: 1
+  deathSound: {fileID: 8300000, guid: 4a7ff3ebffe8e1c479df32b6ea2f56f2, type: 3}
+  hitReactionType: 0
+  knockbackForce: 5
+  knockbackDuration: 0.3
+  knockbackMultiplier: 1
+  stunDuration: 0.5
+  stunFlashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad75f40d24aab1f428d04dbad0e6a68f, type: 3}
+  m_Name: MusicConfig
+  m_EditorClassIdentifier: 
+  levelMusics:
+  - sceneName: BootStrap
+    description: nyahalo
+    backgroundMusic: {fileID: 8300000, guid: 373a970a647556e40a4390ac6611f936, type: 3}
+    volume: 1
+    loopMusic: 1
+  - sceneName: MainMenu
+    description: nyahalo
+    backgroundMusic: {fileID: 8300000, guid: bda9811c85174e548adf9b8886e41980, type: 3}
+    volume: 1
+    loopMusic: 1
+  - sceneName: Easy
+    description: nyahalo
+    backgroundMusic: {fileID: 8300000, guid: 02ff2357e86d3594888a7253a28e443e, type: 3}
+    volume: 1
+    loopMusic: 1
+  - sceneName: Normal
+    description: nyahalo
+    backgroundMusic: {fileID: 8300000, guid: b2fb6f13344700446afb88b59f74d6c4, type: 3}
+    volume: 1
+    loopMusic: 1
+  - sceneName: Hard
+    description: nyahalo
+    backgroundMusic: {fileID: 8300000, guid: 0fd62a94b180c5e488f85d2e82d37a89, type: 3}
+    volume: 1
+    loopMusic: 1
+  - sceneName: Monster Hunter
+    description: nyahalo
+    backgroundMusic: {fileID: 8300000, guid: 86c40866f82a1dc439a0e19383c3fc65, type: 3}
+    volume: 1
+    loopMusic: 1
+  defaultBGM: {fileID: 8300000, guid: bda9811c85174e548adf9b8886e41980, type: 3}
+  defaultVolume: 1

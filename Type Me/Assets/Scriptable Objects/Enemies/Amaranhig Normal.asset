@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19a4d2a2498ce8249923a5e40810e88b, type: 3}
+  m_Name: Amaranhig Normal
+  m_EditorClassIdentifier: 
+  portraitSprite: {fileID: 21300000, guid: 0db11d3fdadcd8b45a2de3c11201a058, type: 3}
+  iconSprite: {fileID: -1773903890, guid: 0882d01fb37f13f489b473bedfb67b58, type: 3}
+  enemyName: Amaranhig
+  description: A undead creature from Visayan folklore that rises at night to bite
+    and terrorize humans, sometimes turning its victims into more Amaranhig.
+  wordScore: 40
+  enemyType: 0
+  speed: 0.7
+  damage: 2
+  wordDifficulty: 0
+  deathSound: {fileID: 8300000, guid: 6fb13f320247da6449dac51f2931d775, type: 3}
+  hitReactionType: 0
+  knockbackForce: 4
+  knockbackDuration: 0.3
+  knockbackMultiplier: 1
+  stunDuration: 0.5
+  stunFlashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}

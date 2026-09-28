@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19a4d2a2498ce8249923a5e40810e88b, type: 3}
+  m_Name: Sigbin Normal
+  m_EditorClassIdentifier: 
+  portraitSprite: {fileID: 21300000, guid: c32dd667c74c9f14fbd8460728a8ff81, type: 3}
+  iconSprite: {fileID: -277160044, guid: 858d17f843deaeb4b8abbd01e0eab1db, type: 3}
+  enemyName: Sigbin
+  description: A nocturnal, goat-like creature in Filipino folklore that walks backward
+    and emits a foul odor. Said to suck the blood of its victims from the shadows,
+    it is feared for its stealth and supernatural powers.
+  wordScore: 50
+  enemyType: 0
+  speed: 1
+  damage: 2
+  wordDifficulty: 0
+  deathSound: {fileID: 8300000, guid: bc6f0fad774f11b43a7db3be9bce91f1, type: 3}
+  hitReactionType: 0
+  knockbackForce: 4
+  knockbackDuration: 0.3
+  knockbackMultiplier: 1
+  stunDuration: 0.5
+  stunFlashColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}

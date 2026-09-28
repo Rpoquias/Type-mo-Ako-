@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e949f6082f0aa4648a16383cc62c503e, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  levelName: Hard
+  description: Enemies swarm from all directions!
+  startingLives: 30
+  requiresCountdown: 1
+  countdownDuration: 3
+  bannerSprite: {fileID: -170661868, guid: c5dca2186de953c4dbc8b3d08dc0ff0c, type: 3}
+  levelmap: {fileID: 21300000, guid: e057704677815e449b6afb97e2b89cf7, type: 3}
